@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et nisl dui. Ve
 ## Projetos
 
 - [Codaqui.dev](https://www.codaqui.dev)
-- [Lista](lista.md)
+- [Lista 2024-02](codaqui2024-02.md)
